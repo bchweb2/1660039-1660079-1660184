@@ -1,0 +1,11 @@
+{
+  "name": "1660039-1660079-1660184",
+  "version": "1.0.0",
+  "description": "1660039-1660079-1660184",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
